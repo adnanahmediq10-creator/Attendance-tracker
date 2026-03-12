@@ -2,6 +2,10 @@
 
 A React-based attendance tracking application for teachers to view and manage student attendance records.
 
+## 📖 About
+
+The Student Attendance Viewer is a modern web application designed to simplify attendance management for educational institutions. Teachers can efficiently track and analyze student attendance patterns with an intuitive interface. The application provides real-time statistics, advanced filtering capabilities, and visual indicators to help identify students with low attendance quickly.
+
 ## 🎯 Features
 
 - 📊 View all student attendance records
